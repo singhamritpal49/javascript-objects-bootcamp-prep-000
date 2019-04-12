@@ -1,10 +1,3 @@
 var playlist = {
-Raikoti: "Munda Ambarsariya",
-Jassar: "Big Shot"
+Raikoti: "Munda Ambarsariya"
 };
-
-function updatePlaylist(playlist, artistName, songTitle)  {
-  var playlist = {
-  
-  }
-}
