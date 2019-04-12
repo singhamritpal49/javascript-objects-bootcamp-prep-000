@@ -4,6 +4,6 @@ Jassar: "Big Shot"
 };
 
 function updatePlaylist(playlist, artistName, songTitle)  {
-  updatePlaylist.playlist = "Raikoti";
+  updatePlaylist.playlist = "Phil Ochs";
   return updatePlaylist
 }
