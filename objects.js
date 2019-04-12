@@ -1,5 +1,5 @@
 var playlist = {
-Phil Ochs: "Munda Ambarsariya",
+'Phil Ochs': "Munda Ambarsariya",
 Jassar: "Big Shot"
 };
 
