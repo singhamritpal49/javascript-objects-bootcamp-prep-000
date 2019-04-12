@@ -4,6 +4,6 @@ Jassar: "Big Shot"
 };
 
 function updatePlaylist(playlist, artistName, songTitle) = {
-  updatePlaylist.playlist = "string";
+  updatePlaylist.playlist = "Raikoti";
   return updatePlaylist
 }
