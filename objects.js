@@ -1,4 +1,4 @@
 var playlist = {
-Happy Raikoti: "Munda Ambarsariya",
-Tarsem Jassar: "Big Shot"
+Happy: "Munda Ambarsariya",
+Tarsem: "Big Shot"
 };
