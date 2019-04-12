@@ -1,5 +1,5 @@
 var playlist = {
-Raikoti: "Munda Ambarsariya",
+Phil Ochs: "Munda Ambarsariya",
 Jassar: "Big Shot"
 };
 
