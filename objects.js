@@ -1,3 +1,6 @@
 var playlist = {
-Raikoti: "Munda Ambarsariya"
+raikoti: "Munda Ambarsariya"
 };
+function updatePlaylist(playlist, artistName, songTitle) {
+  playlist[""]
+}
