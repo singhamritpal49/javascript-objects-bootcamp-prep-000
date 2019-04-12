@@ -2,7 +2,7 @@ var playlist = {
 raikoti: "Munda Ambarsariya"
 };
 function updatePlaylist(playlist, artistName, songTitle) {
-  playlist.Slowdive = {'Singh',
+  playlist.artistName = {'Singh',
   playlist.Amrit = 'Sometimes'}
   return updatePlaylist
 }
